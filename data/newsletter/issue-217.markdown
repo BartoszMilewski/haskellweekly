@@ -85,7 +85,7 @@ You should [advertise with us](https://haskellweekly.news/advertising.html)!
 
 - [unordered-containers version 0.2.11.0](https://np.reddit.com/r/haskell/comments/hbm4rf/ann_unorderedcontainers_02110/) by Simon Jakobi
 
-- [Zues](https://github.com/mightybyte/zeus/tree/b60e945e0a1b07faed046cae34db6813e6e40019) by Doug Beardsley
+- [Zeus](https://github.com/mightybyte/zeus/tree/b60e945e0a1b07faed046cae34db6813e6e40019) by Doug Beardsley
   > Zeus is a no-fuss production quality CI server for Nix projects.
 
 ## Call for participation
